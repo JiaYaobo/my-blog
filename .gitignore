@@ -35,3 +35,12 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+
+# models pics and textures
+*.glb
+*.png
+*.jpg
+*.bin
+*.gltf
+

@@ -1,7 +1,9 @@
-import styled from "styled-components";
+import styled, { StyledComponent } from "styled-components";
 
 const Container = styled.div`
   display: flex;
+  height: 50px;
+  width: 100%;
 `;
 
 const Left = styled.div``;
